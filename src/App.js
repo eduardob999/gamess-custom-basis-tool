@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import TextareaComponent from './components/TextareaComponent';
-import PeriodicTable from './components/PeriodicTable';
-import FilteredElements from './components/FilteredElements';
+import FilteredElements from './components/FilteredElements'; // Include the FilteredElements component
 import DisplayObjectData from './components/DisplayObjectData'; // Import the DisplayObjectData component
 import periodicTableData from './data/periodicTable.json';
 
@@ -13,11 +12,6 @@ function App() {
     setExportedText(newText);
   };
 
-  // Callback function to update the filtered data
-  const onUpdateFilteredData = (updatedData) => {
-    setFilteredData(updatedData);
-  };
-
   return (
     <div className="App">
       <h1>Textarea Export App</h1>
@@ -26,14 +20,14 @@ function App() {
         <h2>Exported Text:</h2>
         <p>{exportedText}</p>
       </div>
-      <PeriodicTable elements={periodicTableData.elements} />
+      {/* Include the FilteredElements component */}
       <FilteredElements
         elements={periodicTableData.elements}
         exportedText={exportedText}
-        onUpdateFilteredData={onUpdateFilteredData}
+        onUpdateFilteredData={setFilteredData}
       />
       {/* Display the updated periodic table data */}
-      <DisplayObjectData data={filteredData} />
+      <DisplayObjectData data={filteredData} /> {/* DisplayObjectData component */}
     </div>
   );
 }
