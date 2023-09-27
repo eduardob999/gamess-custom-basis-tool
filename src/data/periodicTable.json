@@ -1,0 +1,949 @@
+{
+  "elements": [
+    {
+      "name": "Hydrogen",
+      "symbol": "H",
+      "atomicNumber": "1.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Helium",
+      "symbol": "He",
+      "atomicNumber": "2.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Lithium",
+      "symbol": "Li",
+      "atomicNumber": "3.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Beryllium",
+      "symbol": "Be",
+      "atomicNumber": "4.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Boron",
+      "symbol": "B",
+      "atomicNumber": "5.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Carbon",
+      "symbol": "C",
+      "atomicNumber": "6.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Nitrogen",
+      "symbol": "N",
+      "atomicNumber": "7.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Oxygen",
+      "symbol": "O",
+      "atomicNumber": "8.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Fluorine",
+      "symbol": "F",
+      "atomicNumber": "9.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Neon",
+      "symbol": "Ne",
+      "atomicNumber": "10.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Sodium",
+      "symbol": "Na",
+      "atomicNumber": "11.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Magnesium",
+      "symbol": "Mg",
+      "atomicNumber": "12.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Aluminum",
+      "symbol": "Al",
+      "atomicNumber": "13.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Silicon",
+      "symbol": "Si",
+      "atomicNumber": "14.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Phosphorus",
+      "symbol": "P",
+      "atomicNumber": "15.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Sulfur",
+      "symbol": "S",
+      "atomicNumber": "16.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Chlorine",
+      "symbol": "Cl",
+      "atomicNumber": "17.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Argon",
+      "symbol": "Ar",
+      "atomicNumber": "18.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Potassium",
+      "symbol": "K",
+      "atomicNumber": "19.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Calcium",
+      "symbol": "Ca",
+      "atomicNumber": "20.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Scandium",
+      "symbol": "Sc",
+      "atomicNumber": "21.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Titanium",
+      "symbol": "Ti",
+      "atomicNumber": "22.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Vanadium",
+      "symbol": "V",
+      "atomicNumber": "23.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Chromium",
+      "symbol": "Cr",
+      "atomicNumber": "24.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Manganese",
+      "symbol": "Mn",
+      "atomicNumber": "25.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Iron",
+      "symbol": "Fe",
+      "atomicNumber": "26.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Cobalt",
+      "symbol": "Co",
+      "atomicNumber": "27.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Nickel",
+      "symbol": "Ni",
+      "atomicNumber": "28.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Copper",
+      "symbol": "Cu",
+      "atomicNumber": "29.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Zinc",
+      "symbol": "Zn",
+      "atomicNumber": "30.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Gallium",
+      "symbol": "Ga",
+      "atomicNumber": "31.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Germanium",
+      "symbol": "Ge",
+      "atomicNumber": "32.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Arsenic",
+      "symbol": "As",
+      "atomicNumber": "33.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Selenium",
+      "symbol": "Se",
+      "atomicNumber": "34.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Bromine",
+      "symbol": "Br",
+      "atomicNumber": "35.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Krypton",
+      "symbol": "Kr",
+      "atomicNumber": "36.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Rubidium",
+      "symbol": "Rb",
+      "atomicNumber": "37.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Strontium",
+      "symbol": "Sr",
+      "atomicNumber": "38.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Yttrium",
+      "symbol": "Y",
+      "atomicNumber": "39.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Zirconium",
+      "symbol": "Zr",
+      "atomicNumber": "40.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Niobium",
+      "symbol": "Nb",
+      "atomicNumber": "41.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Molybdenum",
+      "symbol": "Mo",
+      "atomicNumber": "42.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Technetium",
+      "symbol": "Tc",
+      "atomicNumber": "43.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Ruthenium",
+      "symbol": "Ru",
+      "atomicNumber": "44.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Rhodium",
+      "symbol": "Rh",
+      "atomicNumber": "45.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Palladium",
+      "symbol": "Pd",
+      "atomicNumber": "46.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Silver",
+      "symbol": "Ag",
+      "atomicNumber": "47.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Cadmium",
+      "symbol": "Cd",
+      "atomicNumber": "48.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Indium",
+      "symbol": "In",
+      "atomicNumber": "49.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Tin",
+      "symbol": "Sn",
+      "atomicNumber": "50.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Antimony",
+      "symbol": "Sb",
+      "atomicNumber": "51.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Tellurium",
+      "symbol": "Te",
+      "atomicNumber": "52.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Iodine",
+      "symbol": "I",
+      "atomicNumber": "53.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Xenon",
+      "symbol": "Xe",
+      "atomicNumber": "54.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Cesium",
+      "symbol": "Cs",
+      "atomicNumber": "55.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Barium",
+      "symbol": "Ba",
+      "atomicNumber": "56.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Lanthanum",
+      "symbol": "La",
+      "atomicNumber": "57.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Cerium",
+      "symbol": "Ce",
+      "atomicNumber": "58.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Praseodymium",
+      "symbol": "Pr",
+      "atomicNumber": "59.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Neodymium",
+      "symbol": "Nd",
+      "atomicNumber": "60.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Promethium",
+      "symbol": "Pm",
+      "atomicNumber": "61.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Samarium",
+      "symbol": "Sm",
+      "atomicNumber": "62.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Europium",
+      "symbol": "Eu",
+      "atomicNumber": "63.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Gadolinium",
+      "symbol": "Gd",
+      "atomicNumber": "64.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Terbium",
+      "symbol": "Tb",
+      "atomicNumber": "65.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Dysprosium",
+      "symbol": "Dy",
+      "atomicNumber": "66.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Holmium",
+      "symbol": "Ho",
+      "atomicNumber": "67.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Erbium",
+      "symbol": "Er",
+      "atomicNumber": "68.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Thulium",
+      "symbol": "Tm",
+      "atomicNumber": "69.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Ytterbium",
+      "symbol": "Yb",
+      "atomicNumber": "70.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Lutetium",
+      "symbol": "Lu",
+      "atomicNumber": "71.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Hafnium",
+      "symbol": "Hf",
+      "atomicNumber": "72.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Tantalum",
+      "symbol": "Ta",
+      "atomicNumber": "73.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Tungsten",
+      "symbol": "W",
+      "atomicNumber": "74.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Rhenium",
+      "symbol": "Re",
+      "atomicNumber": "75.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Osmium",
+      "symbol": "Os",
+      "atomicNumber": "76.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Iridium",
+      "symbol": "Ir",
+      "atomicNumber": "77.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Platinum",
+      "symbol": "Pt",
+      "atomicNumber": "78.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Gold",
+      "symbol": "Au",
+      "atomicNumber": "79.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Mercury",
+      "symbol": "Hg",
+      "atomicNumber": "80.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Thallium",
+      "symbol": "Tl",
+      "atomicNumber": "81.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Lead",
+      "symbol": "Pb",
+      "atomicNumber": "82.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Bismuth",
+      "symbol": "Bi",
+      "atomicNumber": "83.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Polonium",
+      "symbol": "Po",
+      "atomicNumber": "84.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Astatine",
+      "symbol": "At",
+      "atomicNumber": "85.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Radon",
+      "symbol": "Rn",
+      "atomicNumber": "86.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Francium",
+      "symbol": "Fr",
+      "atomicNumber": "87.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Radium",
+      "symbol": "Ra",
+      "atomicNumber": "88.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Actinium",
+      "symbol": "Ac",
+      "atomicNumber": "89.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Thorium",
+      "symbol": "Th",
+      "atomicNumber": "90.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Protactinium",
+      "symbol": "Pa",
+      "atomicNumber": "91.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Uranium",
+      "symbol": "U",
+      "atomicNumber": "92.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Neptunium",
+      "symbol": "Np",
+      "atomicNumber": "93.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Plutonium",
+      "symbol": "Pu",
+      "atomicNumber": "94.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Americium",
+      "symbol": "Am",
+      "atomicNumber": "95.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Curium",
+      "symbol": "Cm",
+      "atomicNumber": "96.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Berkelium",
+      "symbol": "Bk",
+      "atomicNumber": "97.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Californium",
+      "symbol": "Cf",
+      "atomicNumber": "98.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Einsteinium",
+      "symbol": "Es",
+      "atomicNumber": "99.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Fermium",
+      "symbol": "Fm",
+      "atomicNumber": "100.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Mendelevium",
+      "symbol": "Md",
+      "atomicNumber": "101.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Nobelium",
+      "symbol": "No",
+      "atomicNumber": "102.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Lawrencium",
+      "symbol": "Lr",
+      "atomicNumber": "103.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Rutherfordium",
+      "symbol": "Rf",
+      "atomicNumber": "104.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Dubnium",
+      "symbol": "Db",
+      "atomicNumber": "105.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Seaborgium",
+      "symbol": "Sg",
+      "atomicNumber": "106.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Bohrium",
+      "symbol": "Bh",
+      "atomicNumber": "107.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Hassium",
+      "symbol": "Hs",
+      "atomicNumber": "108.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Meitnerium",
+      "symbol": "Mt",
+      "atomicNumber": "109.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Darmstadtium",
+      "symbol": "Ds",
+      "atomicNumber": "110.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Roentgenium",
+      "symbol": "Rg",
+      "atomicNumber": "111.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Copernicium",
+      "symbol": "Cn",
+      "atomicNumber": "112.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Nihonium",
+      "symbol": "Nh",
+      "atomicNumber": "113.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Flerovium",
+      "symbol": "Fl",
+      "atomicNumber": "114.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Moscovium",
+      "symbol": "Mc",
+      "atomicNumber": "115.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Livermorium",
+      "symbol": "Lv",
+      "atomicNumber": "116.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Tennessine",
+      "symbol": "Ts",
+      "atomicNumber": "117.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    },
+    {
+      "name": "Oganesson",
+      "symbol": "Og",
+      "atomicNumber": "118.0",
+      "basis": "",
+      "basisLines": [],
+      "inputLines": []
+    }
+  ]
+}
+
