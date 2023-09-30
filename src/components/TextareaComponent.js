@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
+import "../App.css";
 
-function TextareaComponent({ onTextChange }) {
+function TextareaComponent({ onTextChange, placeHolder, prompt }) {
   const [text, setText] = useState('');
 
   const handleTextChange = (e) => {
@@ -10,13 +11,14 @@ function TextareaComponent({ onTextChange }) {
   };
 
   return (
-    <div>
+    <div className='SubApp'>
+      <h2>{prompt}</h2>
       <textarea
         rows="4"
         cols="50"
         value={text}
         onChange={handleTextChange}
-        placeholder="Enter text here"
+        placeholder={placeHolder}
       />
     </div>
   );

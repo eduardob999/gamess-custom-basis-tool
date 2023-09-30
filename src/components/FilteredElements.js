@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
+import "../App.css";
 
 const FilteredElements = ({ elements, exportedText, onUpdateFilteredData }) => {
+
   // Convert the exportedText and element names to lowercase for case-insensitive matching
   const searchTextLower = exportedText.toLowerCase();
 
@@ -28,7 +30,7 @@ const FilteredElements = ({ elements, exportedText, onUpdateFilteredData }) => {
         if (line.includes(nameLower)) {
           // Extract the paragraph right below the element name
           for (let j = i + 1; j < textLines.length; j++) {
-            if (textLines[j].trim() === '') {
+            if (textLines[j-1].trim() === '') {
               break; // Stop when an empty line is encountered
             }
             basisText.push(textLines[j].trim());
@@ -48,14 +50,14 @@ const FilteredElements = ({ elements, exportedText, onUpdateFilteredData }) => {
   }, [elements, exportedText, onUpdateFilteredData]);
 
   return (
-    <div>
-      <h2>Filtered Elements</h2>
+    <div className='SubApp'>
+      <h2> {filteredElements.length === 0 ? 'Not a valid basis set yet.' : 'Elements found: '} </h2>
       <ul>
         {filteredElements.map((element) => (
           <li key={element.name}>{element.name}</li>
         ))}
       </ul>
-    </div>
+    </div> 
   );
 };
 

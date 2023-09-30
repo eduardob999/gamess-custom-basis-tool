@@ -3,709 +3,709 @@
     {
       "name": "Hydrogen",
       "symbol": "H",
-      "atomicNumber": "1.0",
+      "atomicNumber": "    1.0    ",
       "basis": ""
     },
     {
       "name": "Helium",
       "symbol": "He",
-      "atomicNumber": "2.0",
+      "atomicNumber": "    2.0    ",
       "basis": ""
     },
     {
       "name": "Lithium",
       "symbol": "Li",
-      "atomicNumber": "3.0",
+      "atomicNumber": "    3.0    ",
       "basis": ""
     },
     {
       "name": "Beryllium",
       "symbol": "Be",
-      "atomicNumber": "4.0",
+      "atomicNumber": "    4.0    ",
       "basis": ""
     },
     {
       "name": "Boron",
       "symbol": "B",
-      "atomicNumber": "5.0",
+      "atomicNumber": "    5.0    ",
       "basis": ""
     },
     {
       "name": "Carbon",
       "symbol": "C",
-      "atomicNumber": "6.0",
+      "atomicNumber": "    6.0    ",
       "basis": ""
     },
     {
       "name": "Nitrogen",
       "symbol": "N",
-      "atomicNumber": "7.0",
+      "atomicNumber": "    7.0    ",
       "basis": ""
     },
     {
       "name": "Oxygen",
       "symbol": "O",
-      "atomicNumber": "8.0",
+      "atomicNumber": "    8.0    ",
       "basis": ""
     },
     {
       "name": "Fluorine",
       "symbol": "F",
-      "atomicNumber": "9.0",
+      "atomicNumber": "    9.0    ",
       "basis": ""
     },
     {
       "name": "Neon",
       "symbol": "Ne",
-      "atomicNumber": "10.0",
+      "atomicNumber": "    10.0    ",
       "basis": ""
     },
     {
       "name": "Sodium",
       "symbol": "Na",
-      "atomicNumber": "11.0",
+      "atomicNumber": "    11.0    ",
       "basis": ""
     },
     {
       "name": "Magnesium",
       "symbol": "Mg",
-      "atomicNumber": "12.0",
+      "atomicNumber": "    12.0    ",
       "basis": ""
     },
     {
       "name": "Aluminum",
       "symbol": "Al",
-      "atomicNumber": "13.0",
+      "atomicNumber": "    13.0    ",
       "basis": ""
     },
     {
       "name": "Silicon",
       "symbol": "Si",
-      "atomicNumber": "14.0",
+      "atomicNumber": "    14.0    ",
       "basis": ""
     },
     {
       "name": "Phosphorus",
       "symbol": "P",
-      "atomicNumber": "15.0",
+      "atomicNumber": "    15.0    ",
       "basis": ""
     },
     {
       "name": "Sulfur",
       "symbol": "S",
-      "atomicNumber": "16.0",
+      "atomicNumber": "    16.0    ",
       "basis": ""
     },
     {
       "name": "Chlorine",
       "symbol": "Cl",
-      "atomicNumber": "17.0",
+      "atomicNumber": "    17.0    ",
       "basis": ""
     },
     {
       "name": "Argon",
       "symbol": "Ar",
-      "atomicNumber": "18.0",
+      "atomicNumber": "    18.0    ",
       "basis": ""
     },
     {
       "name": "Potassium",
       "symbol": "K",
-      "atomicNumber": "19.0",
+      "atomicNumber": "    19.0    ",
       "basis": ""
     },
     {
       "name": "Calcium",
       "symbol": "Ca",
-      "atomicNumber": "20.0",
+      "atomicNumber": "    20.0    ",
       "basis": ""
     },
     {
       "name": "Scandium",
       "symbol": "Sc",
-      "atomicNumber": "21.0",
+      "atomicNumber": "    21.0    ",
       "basis": ""
     },
     {
       "name": "Titanium",
       "symbol": "Ti",
-      "atomicNumber": "22.0",
+      "atomicNumber": "    22.0    ",
       "basis": ""
     },
     {
       "name": "Vanadium",
       "symbol": "V",
-      "atomicNumber": "23.0",
+      "atomicNumber": "    23.0    ",
       "basis": ""
     },
     {
       "name": "Chromium",
       "symbol": "Cr",
-      "atomicNumber": "24.0",
+      "atomicNumber": "    24.0    ",
       "basis": ""
     },
     {
       "name": "Manganese",
       "symbol": "Mn",
-      "atomicNumber": "25.0",
+      "atomicNumber": "    25.0    ",
       "basis": ""
     },
     {
       "name": "Iron",
       "symbol": "Fe",
-      "atomicNumber": "26.0",
+      "atomicNumber": "    26.0    ",
       "basis": ""
     },
     {
       "name": "Cobalt",
       "symbol": "Co",
-      "atomicNumber": "27.0",
+      "atomicNumber": "    27.0    ",
       "basis": ""
     },
     {
       "name": "Nickel",
       "symbol": "Ni",
-      "atomicNumber": "28.0",
+      "atomicNumber": "    28.0    ",
       "basis": ""
     },
     {
       "name": "Copper",
       "symbol": "Cu",
-      "atomicNumber": "29.0",
+      "atomicNumber": "    29.0    ",
       "basis": ""
     },
     {
       "name": "Zinc",
       "symbol": "Zn",
-      "atomicNumber": "30.0",
+      "atomicNumber": "    30.0    ",
       "basis": ""
     },
     {
       "name": "Gallium",
       "symbol": "Ga",
-      "atomicNumber": "31.0",
+      "atomicNumber": "    31.0    ",
       "basis": ""
     },
     {
       "name": "Germanium",
       "symbol": "Ge",
-      "atomicNumber": "32.0",
+      "atomicNumber": "    32.0    ",
       "basis": ""
     },
     {
       "name": "Arsenic",
       "symbol": "As",
-      "atomicNumber": "33.0",
+      "atomicNumber": "    33.0    ",
       "basis": ""
     },
     {
       "name": "Selenium",
       "symbol": "Se",
-      "atomicNumber": "34.0",
+      "atomicNumber": "    34.0    ",
       "basis": ""
     },
     {
       "name": "Bromine",
       "symbol": "Br",
-      "atomicNumber": "35.0",
+      "atomicNumber": "    35.0    ",
       "basis": ""
     },
     {
       "name": "Krypton",
       "symbol": "Kr",
-      "atomicNumber": "36.0",
+      "atomicNumber": "    36.0    ",
       "basis": ""
     },
     {
       "name": "Rubidium",
       "symbol": "Rb",
-      "atomicNumber": "37.0",
+      "atomicNumber": "    37.0    ",
       "basis": ""
     },
     {
       "name": "Strontium",
       "symbol": "Sr",
-      "atomicNumber": "38.0",
+      "atomicNumber": "    38.0    ",
       "basis": ""
     },
     {
       "name": "Yttrium",
       "symbol": "Y",
-      "atomicNumber": "39.0",
+      "atomicNumber": "    39.0    ",
       "basis": ""
     },
     {
       "name": "Zirconium",
       "symbol": "Zr",
-      "atomicNumber": "40.0",
+      "atomicNumber": "    40.0    ",
       "basis": ""
     },
     {
       "name": "Niobium",
       "symbol": "Nb",
-      "atomicNumber": "41.0",
+      "atomicNumber": "    41.0    ",
       "basis": ""
     },
     {
       "name": "Molybdenum",
       "symbol": "Mo",
-      "atomicNumber": "42.0",
+      "atomicNumber": "    42.0    ",
       "basis": ""
     },
     {
       "name": "Technetium",
       "symbol": "Tc",
-      "atomicNumber": "43.0",
+      "atomicNumber": "    43.0    ",
       "basis": ""
     },
     {
       "name": "Ruthenium",
       "symbol": "Ru",
-      "atomicNumber": "44.0",
+      "atomicNumber": "    44.0    ",
       "basis": ""
     },
     {
       "name": "Rhodium",
       "symbol": "Rh",
-      "atomicNumber": "45.0",
+      "atomicNumber": "    45.0    ",
       "basis": ""
     },
     {
       "name": "Palladium",
       "symbol": "Pd",
-      "atomicNumber": "46.0",
+      "atomicNumber": "    46.0    ",
       "basis": ""
     },
     {
       "name": "Silver",
       "symbol": "Ag",
-      "atomicNumber": "47.0",
+      "atomicNumber": "    47.0    ",
       "basis": ""
     },
     {
       "name": "Cadmium",
       "symbol": "Cd",
-      "atomicNumber": "48.0",
+      "atomicNumber": "    48.0    ",
       "basis": ""
     },
     {
       "name": "Indium",
       "symbol": "In",
-      "atomicNumber": "49.0",
+      "atomicNumber": "    49.0    ",
       "basis": ""
     },
     {
       "name": "Tin",
       "symbol": "Sn",
-      "atomicNumber": "50.0",
+      "atomicNumber": "    50.0    ",
       "basis": ""
     },
     {
       "name": "Antimony",
       "symbol": "Sb",
-      "atomicNumber": "51.0",
+      "atomicNumber": "    51.0    ",
       "basis": ""
     },
     {
       "name": "Tellurium",
       "symbol": "Te",
-      "atomicNumber": "52.0",
+      "atomicNumber": "    52.0    ",
       "basis": ""
     },
     {
       "name": "Iodine",
       "symbol": "I",
-      "atomicNumber": "53.0",
+      "atomicNumber": "    53.0    ",
       "basis": ""
     },
     {
       "name": "Xenon",
       "symbol": "Xe",
-      "atomicNumber": "54.0",
+      "atomicNumber": "    54.0    ",
       "basis": ""
     },
     {
       "name": "Cesium",
       "symbol": "Cs",
-      "atomicNumber": "55.0",
+      "atomicNumber": "    55.0    ",
       "basis": ""
     },
     {
       "name": "Barium",
       "symbol": "Ba",
-      "atomicNumber": "56.0",
+      "atomicNumber": "    56.0    ",
       "basis": ""
     },
     {
       "name": "Lanthanum",
       "symbol": "La",
-      "atomicNumber": "57.0",
+      "atomicNumber": "    57.0    ",
       "basis": ""
     },
     {
       "name": "Cerium",
       "symbol": "Ce",
-      "atomicNumber": "58.0",
+      "atomicNumber": "    58.0    ",
       "basis": ""
     },
     {
       "name": "Praseodymium",
       "symbol": "Pr",
-      "atomicNumber": "59.0",
+      "atomicNumber": "    59.0    ",
       "basis": ""
     },
     {
       "name": "Neodymium",
       "symbol": "Nd",
-      "atomicNumber": "60.0",
+      "atomicNumber": "    60.0    ",
       "basis": ""
     },
     {
       "name": "Promethium",
       "symbol": "Pm",
-      "atomicNumber": "61.0",
+      "atomicNumber": "    61.0    ",
       "basis": ""
     },
     {
       "name": "Samarium",
       "symbol": "Sm",
-      "atomicNumber": "62.0",
+      "atomicNumber": "    62.0    ",
       "basis": ""
     },
     {
       "name": "Europium",
       "symbol": "Eu",
-      "atomicNumber": "63.0",
+      "atomicNumber": "    63.0    ",
       "basis": ""
     },
     {
       "name": "Gadolinium",
       "symbol": "Gd",
-      "atomicNumber": "64.0",
+      "atomicNumber": "    64.0    ",
       "basis": ""
     },
     {
       "name": "Terbium",
       "symbol": "Tb",
-      "atomicNumber": "65.0",
+      "atomicNumber": "    65.0    ",
       "basis": ""
     },
     {
       "name": "Dysprosium",
       "symbol": "Dy",
-      "atomicNumber": "66.0",
+      "atomicNumber": "    66.0    ",
       "basis": ""
     },
     {
       "name": "Holmium",
       "symbol": "Ho",
-      "atomicNumber": "67.0",
+      "atomicNumber": "    67.0    ",
       "basis": ""
     },
     {
       "name": "Erbium",
       "symbol": "Er",
-      "atomicNumber": "68.0",
+      "atomicNumber": "    68.0    ",
       "basis": ""
     },
     {
       "name": "Thulium",
       "symbol": "Tm",
-      "atomicNumber": "69.0",
+      "atomicNumber": "    69.0    ",
       "basis": ""
     },
     {
       "name": "Ytterbium",
       "symbol": "Yb",
-      "atomicNumber": "70.0",
+      "atomicNumber": "    70.0    ",
       "basis": ""
     },
     {
       "name": "Lutetium",
       "symbol": "Lu",
-      "atomicNumber": "71.0",
+      "atomicNumber": "    71.0    ",
       "basis": ""
     },
     {
       "name": "Hafnium",
       "symbol": "Hf",
-      "atomicNumber": "72.0",
+      "atomicNumber": "    72.0    ",
       "basis": ""
     },
     {
       "name": "Tantalum",
       "symbol": "Ta",
-      "atomicNumber": "73.0",
+      "atomicNumber": "    73.0    ",
       "basis": ""
     },
     {
       "name": "Tungsten",
       "symbol": "W",
-      "atomicNumber": "74.0",
+      "atomicNumber": "    74.0    ",
       "basis": ""
     },
     {
       "name": "Rhenium",
       "symbol": "Re",
-      "atomicNumber": "75.0",
+      "atomicNumber": "    75.0    ",
       "basis": ""
     },
     {
       "name": "Osmium",
       "symbol": "Os",
-      "atomicNumber": "76.0",
+      "atomicNumber": "    76.0    ",
       "basis": ""
     },
     {
       "name": "Iridium",
       "symbol": "Ir",
-      "atomicNumber": "77.0",
+      "atomicNumber": "    77.0    ",
       "basis": ""
     },
     {
       "name": "Platinum",
       "symbol": "Pt",
-      "atomicNumber": "78.0",
+      "atomicNumber": "    78.0    ",
       "basis": ""
     },
     {
       "name": "Gold",
       "symbol": "Au",
-      "atomicNumber": "79.0",
+      "atomicNumber": "    79.0    ",
       "basis": ""
     },
     {
       "name": "Mercury",
       "symbol": "Hg",
-      "atomicNumber": "80.0",
+      "atomicNumber": "    80.0    ",
       "basis": ""
     },
     {
       "name": "Thallium",
       "symbol": "Tl",
-      "atomicNumber": "81.0",
+      "atomicNumber": "    81.0    ",
       "basis": ""
     },
     {
       "name": "Lead",
       "symbol": "Pb",
-      "atomicNumber": "82.0",
+      "atomicNumber": "    82.0    ",
       "basis": ""
     },
     {
       "name": "Bismuth",
       "symbol": "Bi",
-      "atomicNumber": "83.0",
+      "atomicNumber": "    83.0    ",
       "basis": ""
     },
     {
       "name": "Polonium",
       "symbol": "Po",
-      "atomicNumber": "84.0",
+      "atomicNumber": "    84.0    ",
       "basis": ""
     },
     {
       "name": "Astatine",
       "symbol": "At",
-      "atomicNumber": "85.0",
+      "atomicNumber": "    85.0    ",
       "basis": ""
     },
     {
       "name": "Radon",
       "symbol": "Rn",
-      "atomicNumber": "86.0",
+      "atomicNumber": "    86.0    ",
       "basis": ""
     },
     {
       "name": "Francium",
       "symbol": "Fr",
-      "atomicNumber": "87.0",
+      "atomicNumber": "    87.0    ",
       "basis": ""
     },
     {
       "name": "Radium",
       "symbol": "Ra",
-      "atomicNumber": "88.0",
+      "atomicNumber": "    88.0    ",
       "basis": ""
     },
     {
       "name": "Actinium",
       "symbol": "Ac",
-      "atomicNumber": "89.0",
+      "atomicNumber": "    89.0    ",
       "basis": ""
     },
     {
       "name": "Thorium",
       "symbol": "Th",
-      "atomicNumber": "90.0",
+      "atomicNumber": "    90.0    ",
       "basis": ""
     },
     {
       "name": "Protactinium",
       "symbol": "Pa",
-      "atomicNumber": "91.0",
+      "atomicNumber": "    91.0    ",
       "basis": ""
     },
     {
       "name": "Uranium",
       "symbol": "U",
-      "atomicNumber": "92.0",
+      "atomicNumber": "    92.0    ",
       "basis": ""
     },
     {
       "name": "Neptunium",
       "symbol": "Np",
-      "atomicNumber": "93.0",
+      "atomicNumber": "    93.0    ",
       "basis": ""
     },
     {
       "name": "Plutonium",
       "symbol": "Pu",
-      "atomicNumber": "94.0",
+      "atomicNumber": "    94.0    ",
       "basis": ""
     },
     {
       "name": "Americium",
       "symbol": "Am",
-      "atomicNumber": "95.0",
+      "atomicNumber": "    95.0    ",
       "basis": ""
     },
     {
       "name": "Curium",
       "symbol": "Cm",
-      "atomicNumber": "96.0",
+      "atomicNumber": "    96.0    ",
       "basis": ""
     },
     {
       "name": "Berkelium",
       "symbol": "Bk",
-      "atomicNumber": "97.0",
+      "atomicNumber": "    97.0    ",
       "basis": ""
     },
     {
       "name": "Californium",
       "symbol": "Cf",
-      "atomicNumber": "98.0",
+      "atomicNumber": "    98.0    ",
       "basis": ""
     },
     {
       "name": "Einsteinium",
       "symbol": "Es",
-      "atomicNumber": "99.0",
+      "atomicNumber": "    99.0    ",
       "basis": ""
     },
     {
       "name": "Fermium",
       "symbol": "Fm",
-      "atomicNumber": "100.0",
+      "atomicNumber": "    100.0    ",
       "basis": ""
     },
     {
       "name": "Mendelevium",
       "symbol": "Md",
-      "atomicNumber": "101.0",
+      "atomicNumber": "    101.0    ",
       "basis": ""
     },
     {
       "name": "Nobelium",
       "symbol": "No",
-      "atomicNumber": "102.0",
+      "atomicNumber": "    102.0    ",
       "basis": ""
     },
     {
       "name": "Lawrencium",
       "symbol": "Lr",
-      "atomicNumber": "103.0",
+      "atomicNumber": "    103.0    ",
       "basis": ""
     },
     {
       "name": "Rutherfordium",
       "symbol": "Rf",
-      "atomicNumber": "104.0",
+      "atomicNumber": "    104.0    ",
       "basis": ""
     },
     {
       "name": "Dubnium",
       "symbol": "Db",
-      "atomicNumber": "105.0",
+      "atomicNumber": "    105.0    ",
       "basis": ""
     },
     {
       "name": "Seaborgium",
       "symbol": "Sg",
-      "atomicNumber": "106.0",
+      "atomicNumber": "    106.0    ",
       "basis": ""
     },
     {
       "name": "Bohrium",
       "symbol": "Bh",
-      "atomicNumber": "107.0",
+      "atomicNumber": "    107.0    ",
       "basis": ""
     },
     {
       "name": "Hassium",
       "symbol": "Hs",
-      "atomicNumber": "108.0",
+      "atomicNumber": "    108.0    ",
       "basis": ""
     },
     {
       "name": "Meitnerium",
       "symbol": "Mt",
-      "atomicNumber": "109.0",
+      "atomicNumber": "    109.0    ",
       "basis": ""
     },
     {
       "name": "Darmstadtium",
       "symbol": "Ds",
-      "atomicNumber": "110.0",
+      "atomicNumber": "    110.0    ",
       "basis": ""
     },
     {
       "name": "Roentgenium",
       "symbol": "Rg",
-      "atomicNumber": "111.0",
+      "atomicNumber": "    111.0    ",
       "basis": ""
     },
     {
       "name": "Copernicium",
       "symbol": "Cn",
-      "atomicNumber": "112.0",
+      "atomicNumber": "    112.0    ",
       "basis": ""
     },
     {
       "name": "Nihonium",
       "symbol": "Nh",
-      "atomicNumber": "113.0",
+      "atomicNumber": "    113.0    ",
       "basis": ""
     },
     {
       "name": "Flerovium",
       "symbol": "Fl",
-      "atomicNumber": "114.0",
+      "atomicNumber": "    114.0    ",
       "basis": ""
     },
     {
       "name": "Moscovium",
       "symbol": "Mc",
-      "atomicNumber": "115.0",
+      "atomicNumber": "    115.0    ",
       "basis": ""
     },
     {
       "name": "Livermorium",
       "symbol": "Lv",
-      "atomicNumber": "116.0",
+      "atomicNumber": "    116.0    ",
       "basis": ""
     },
     {
       "name": "Tennessine",
       "symbol": "Ts",
-      "atomicNumber": "117.0",
+      "atomicNumber": "    117.0    ",
       "basis": ""
     },
     {
       "name": "Oganesson",
       "symbol": "Og",
-      "atomicNumber": "118.0",
+      "atomicNumber": "    118.0    ",
       "basis": ""
     }
   ]

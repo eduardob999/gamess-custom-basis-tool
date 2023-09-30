@@ -1,5 +1,63 @@
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
 .App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #ffffffde;
+  padding:2em;
+}
+
+.SubApp {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #ffffffde;
+}
+
+textarea {
+  margin: 2%;
+  max-width: calc(80vmin);
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: content-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+
+button {
+  margin: 2%;
+  background-color: #555555; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
   text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  transition-duration: 0.2s;
+}
+
+button:hover {
+  background-color: #ffffffde; /* Green */
+  color: white;
+}
+
+ul {
+  column-count: 2;
 }
 
 .App-logo {
@@ -15,7 +73,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #DEDECC;
 }
 
 .App-link {
