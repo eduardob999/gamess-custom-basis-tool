@@ -1,4 +1,5 @@
 {
+  "homepage":"https://eduardob999.github.io/github-app-1",
   "name": "codespaces-react",
   "version": "0.1.0",
   "private": true,
@@ -21,6 +22,8 @@
     "@adobe/css-tools": "^4.3.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -45,6 +48,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/preset-react": "^7.22.15"
+    "@babel/preset-react": "^7.22.15",
+    "gh-pages": "^6.0.0"
   }
 }
