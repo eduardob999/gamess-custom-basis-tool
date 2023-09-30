@@ -1,8 +1,3 @@
-@viewport {
-  width: device-width ;
-  zoom: 1.0 ;
-}
-
 .App {
   background-color: #282c34;
   min-height: 100vh;
@@ -57,7 +52,8 @@ button:hover {
 }
 
 ul {
-  column-count: 2;
+  column-count: 3;
+  column-gap: 30px;
 }
 
 .App-logo {

@@ -3,8 +3,9 @@
 
 // App.js
 
-import React, { useState } from 'react';
 import './App.css';
+import logo from './data/logo.png';
+import React, { useState } from 'react';
 import TextareaComponent from './components/TextareaComponent';
 import FilteredElements from './components/FilteredElements';
 import DisplayObjectData from './components/DisplayObjectData';
@@ -15,6 +16,7 @@ import periodicTableData from './data/periodicTable.json';
 function App() {
   const [exportedText, setExportedText] = useState('');
   const [secondExportedText, setSecondExportedText] = useState('');
+  const [thirdExportedText, setThirdExportedText] = useState('');
   const [filteredData, setFilteredData] = useState(periodicTableData);
 
   // Component toggle
@@ -25,7 +27,17 @@ function App() {
       case 1:
         return exportedText !== ""
       case 2:
-        return secondExportedText !== "";
+        return exportedText !== "" && 
+        filteredData.length !== 0;
+      case 3:
+        return exportedText !== "" && 
+        filteredData.length !== 0 && 
+        secondExportedText !== "";
+      case 4:
+        return exportedText !== "" &&
+        filteredData.length !== 0 &&
+        secondExportedText !== "" &&
+        thirdExportedText !== "";
       default:
         console.debug("error 101");
         break;
@@ -41,36 +53,44 @@ function App() {
   };
 
   const handleUpdatedText = (updatedText) => {
-    setSecondExportedText(updatedText);
+    setThirdExportedText(updatedText);
   };
 
   return (
     <div className="App">
+      <img className="App-logo" src={logo} alt="Logo" />
       <h1>GAMESS-BASIS UI</h1>
       <TextareaComponent 
         key={0}
         prompt= "Paste the basis set: "
         placeHolder="Paste the basis set in GAMESS US format..."
-        onTextChange={handleTextChange} 
+        onTextChange={handleTextChange}
       />
       {enable(1) && <FilteredElements
         elements={periodicTableData.elements}
         exportedText={exportedText}
         onUpdateFilteredData={setFilteredData}
       />}
-      {enable(1) && <TextareaComponent 
+      {enable(2) && <TextareaComponent 
         key={1}
         prompt= "Paste the GAMESS input: "
         placeHolder= "Paste the input with no $BASIS group..."
         onTextChange={handleSecondTextChange} 
       />}
-      {enable(2) && <AtomicNumberLineSearch
+      {enable(3) && <AtomicNumberLineSearch
         filteredData={filteredData}
         secondExportedText={secondExportedText}
-        onUpdatedText={handleUpdatedText} 
+        onUpdatedText={handleUpdatedText}
       />}
-      {enable(2) && <DownloadButton textToDownload={secondExportedText} /> }
-      {enable(0) && <DisplayObjectData data={filteredData} />} 
+      {enable(4) && <TextareaComponent 
+        key={2}
+        prompt= "New input: "
+        placeHolder= "New input..."
+        dv= {thirdExportedText}
+        onTextChange={handleSecondTextChange}
+      />}
+      {enable(4) && <DownloadButton textToDownload={thirdExportedText} /> }
+      {enable(0) && <DisplayObjectData data={filteredData} />}
     </div>
   );
 }

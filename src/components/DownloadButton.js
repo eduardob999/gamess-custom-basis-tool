@@ -19,7 +19,7 @@ function DownloadButton({ textToDownload }) {
 
   return (
     <div className="SubApp">
-      <button onClick={handleDownload}>Download Updated Text</button>
+      <button onClick={handleDownload}>Download New Input</button>
     </div>
   );
 }

@@ -47,23 +47,22 @@ function AtomicNumberLineSearch({ filteredData, secondExportedText, onUpdatedTex
 
   return (
     <div className="SubApp">
-      <h2>Search for AtomicNumbers in Exported Text</h2>
-      <button onClick={searchAtomicNumbers}>Search AtomicNumbers</button>
-      <button onClick={insertBasisParagraphs}>Insert Basis Paragraphs</button>
+      <button onClick={searchAtomicNumbers}>Input Check</button>
       <div>
         {foundLines.length > 0 ? (
-          <div>
-            <p>AtomicNumbers found in lines:</p>
+          <div className="SubApp">
+            <h3>Atoms found: </h3>
             <ul>
               {foundLines.map((entry, index) => (
                 <li key={index}>
-                  AtomicNumber: {entry.atomicNumber}, Line: {entry.lineIndex + 1}
+                  Z={entry.atomicNumber}, Line: {entry.lineIndex + 1}
                 </li>
               ))}
             </ul>
+            <button onClick={insertBasisParagraphs}>Insert Basis</button>
           </div>
         ) : (
-          <p>No AtomicNumbers found in the text.</p>
+          <p>Enter a valid input and press input check.</p>
         )}
       </div>
     </div>

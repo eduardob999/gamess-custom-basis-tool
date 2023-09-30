@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import "../App.css";
 
-function TextareaComponent({ onTextChange, placeHolder, prompt }) {
+function TextareaComponent({ onTextChange, placeHolder, prompt, dv }) {
   const [text, setText] = useState('');
 
   const handleTextChange = (e) => {
@@ -16,7 +16,7 @@ function TextareaComponent({ onTextChange, placeHolder, prompt }) {
       <textarea
         rows="4"
         cols="50"
-        value={text}
+        value={dv === "" ? text : dv}
         onChange={handleTextChange}
         placeholder={placeHolder}
       />
