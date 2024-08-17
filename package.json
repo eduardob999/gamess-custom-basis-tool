@@ -1,5 +1,5 @@
 {
-  "homepage":"https://eduardob999.github.io/github-app-1",
+  "homepage": "https://eduardob999.github.io/gamess-custom-basis-tool",
   "name": "codespaces-react",
   "version": "0.1.0",
   "private": true,
@@ -49,6 +49,6 @@
   },
   "devDependencies": {
     "@babel/preset-react": "^7.22.15",
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.1.1"
   }
 }
